@@ -1,4 +1,3 @@
-
 ## Mars Rover Photos
 Uses NASA's API to display images data gathered by NASA's Curiosity, Opportunity, and Spirit rovers on Mars.
 
